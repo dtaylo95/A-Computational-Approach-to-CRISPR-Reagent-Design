@@ -1,6 +1,6 @@
 # A Computational Approach to CRISPR Reagent Design
 
-This repository contains code and resources for "A Computational Approach to CRISPR Reagent Design" module of the Developmental Genetics undergraduate lab course at Johns Hopkins University. It has been updated here to serve as a standalone resources for anyone interested in creating CRISPR reagents via Python.
+This repository contains code and resources for "A Computational Approach to CRISPR Reagent Design" module of the Developmental Genetics undergraduate lab course at Johns Hopkins University (`AS.020.340`). It has been updated here to serve as a standalone resources for anyone interested in creating CRISPR reagents via Python.
 
 These notebooks were developed jointly by [Dylan Taylor](https://dtaylo95.github.io/) and [Sara Carioscia](https://scarioscia.github.io/) as part of their Instructional Enhancement Grant from the [Johns Hopkins Center for Teaching Excellence and Innovation](https://ctei.jhu.edu/programs-and-services/instructional-enhancement-grant-program).
 
