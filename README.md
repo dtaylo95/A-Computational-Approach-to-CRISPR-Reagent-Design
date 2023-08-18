@@ -23,10 +23,14 @@ The module comprises several iPython notebooks. Each notebook acts as a skeleton
 
 ## Using the Module 
 
+### Jupyter Notebooks 
+
 To use the resources as Jupyter Notebooks, `git clone` the repository on your local machine and then launch each notebook from the command line via `jupyter notebook notebookname`. Your changes to the notebook will be automatically saved, so feel free to add additional code or markdown cells as are helpful for you. 
+
+### Google Colab
 
 To launch these resources in Google Colab (see notebook [here](https://github.com/dtaylo95/A-Computational-Approach-to-CRISPR-Reagent-Design/blob/crispr-nbs/intro_notebooks/How_to_Use_Google_Colab.ipynb) for an overview), `git clone` this repository on your local machine. Then, open a new Google Colab document (similar to how you would open a Google Doc or Google Sheet); File --> open notebook --> upload, and choose your notebook. These changes will **not** be saved, unless you download the notebook back out of Google Colab and place it in your local repository.
 
 ## Updating the Module  
 
-Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out to Dylan (dtaylo95@jhu.edu) or Sara (saracarioscia@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please submit an issue directly on GitHub. 
+Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out directly to Dylan (dtaylo95@jhu.edu) or Sara (saracarioscia@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please submit an issue directly on GitHub. 
